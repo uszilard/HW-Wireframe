@@ -1,4 +1,4 @@
-Body {
+body {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   text-align: center;
   color: #777;
@@ -8,12 +8,12 @@ Body {
 }
 
 
-Header {
+header {
   background: #ccc;
 
 }
 
-Nav {
+nav {
   background: #ccc;
   color: #777;
   padding-top: 10px;
@@ -21,14 +21,14 @@ Nav {
   margin-bottom: 20px;
 }
 
-Section {
+section {
   background: #ccc;
   padding: 20px;
   margin-bottom: 20px;
   margin-right: 500px;
 }
 
-Aside {
+aside {
   background: #ccc;
   color: #777;
   float: right;
@@ -37,7 +37,7 @@ Aside {
   margin-bottom: 20px;
 }
 
-Article {
+article {
   background: #777;
   margin: 0;
   padding-top: 1px;
