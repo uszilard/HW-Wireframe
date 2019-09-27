@@ -69,7 +69,11 @@ p {
 .header2 {
   color: #777;
   padding: 10px 5px;
-
+}
+  
+.article-box {
+  background-color: #777;
+  color: #ccc;
 }
 
 footer {
@@ -78,9 +82,4 @@ footer {
   margin-top: 15px;  
   background: #ccc;
   color: #777;
-}
-  
-.article-box {
-  background-color: #777;
-  color: #ccc;
 }
