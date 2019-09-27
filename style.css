@@ -1,87 +1,86 @@
 Body {
-font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-text-align: center;
-color: #777;
-background: #777;
-width: 960px;
-font-size: 18px;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  text-align: center;
+  color: #777;
+  background: #777;
+  width: 960px;
+  font-size: 18px;
 }
 
 
 Header {
-background: #ccc;
+  background: #ccc;
 
 }
 
 Nav {
-background: #ccc;
-color: #777;
-padding-top: 10px;
-padding-bottom: 10px;
-margin-bottom: 20px;
+  background: #ccc;
+  color: #777;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 Section {
-background: #ccc;
-padding: 20px;
-margin-bottom: 20px;
-margin-right: 500px;
+  background: #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-right: 500px;
 }
 
 Aside {
-background: #ccc;
-color: #777;
-float: right;
-margin-left: 35px;
-padding: 115px 175px;
-margin-bottom: 20px;
+  background: #ccc;
+  color: #777;
+  float: right;
+  margin-left: 35px;
+  padding: 115px 175px;
+  margin-bottom: 20px;
 }
 
 Article {
-
-background: #777;
-margin: 0;
-padding-top: 1px;
-padding-left: 15px;
-padding-right: 15px;
-padding-bottom: 1px;
+  background: #777;
+  margin: 0;
+  padding-top: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 1px;
 }
 
 h1 {
-color: #777;
-background: #ccc;
+  color: #777;
+  background: #ccc;
 }
 
 p {
-color: #777;
-margin-top: 20px;
-padding: 10px 5px;
-margin-bottom: 20px;
-background: #ccc;
+  color: #777;
+  margin-top: 20px;
+  padding: 10px 5px;
+  margin-bottom: 20px;
+  background: #ccc;
 }
 
 .header1 {
-color: #777;
-padding: 10px;
-margin-bottom: 20px;
-background: #ccc;
+  color: #777;
+  padding: 10px;
+  margin-bottom: 20px;
+  background: #ccc;
 }
 
 .header2 {
-color: #777;
-padding: 10px 5px;
+  color: #777;
+  padding: 10px 5px;
 
 }
 
 footer {
-padding: 10px;
-margin-bottom: 20px;
-margin-top: 15px;  
-background: #ccc;
-color: #777;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-top: 15px;  
+  background: #ccc;
+  color: #777;
 }
   
 .article-box {
-background-color: #777;
-color: #ccc;
+  background-color: #777;
+  color: #ccc;
 }
